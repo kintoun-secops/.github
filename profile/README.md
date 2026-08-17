@@ -16,8 +16,11 @@ AWS 기반 클라우드 침해사고 대응 및 SecOps 인프라 구축 프로�
 | 오병은 | @susan0606 | 📋 Compliance |
 
 ## 🛠️ Tech Stack
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-- ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=plastic&logo=amazonwebservices&logoColor=white)
+- ![Terraform](https://img.shields.io/badge/Terraform-%23844FBA?style=plastic&logo=Terraform&logoColor=white)
+- ![GitHubActions](https://img.shields.io/badge/GitHub%20Actions-white?style=plastic&logo=Github%20Actions&logoColor=%232088FF)
+
 
 ## 📦 Repositories
 - `iam` - IAM 그룹/사용자/정책/비밀번호 정책
+- `kintoun-infra` - 근두운 프로젝트 AWS 인프라
