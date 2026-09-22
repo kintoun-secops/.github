@@ -26,11 +26,6 @@ AWS 기반 클라우드 침해사고 대응 및 SecOps 인프라 구축 프로�
   </tr>
 </table>
 
-[![레포 바로가기](https://img.shields.io/badge/REPO-kintoun--infra-orange?style=for-the-badge&logo=Github)](https://github.com/kintoun-secops/kintoun-infra)&nbsp;
-[![문서 바로가기](https://img.shields.io/badge/DOCS-kintoun--infra--document-34A853?style=for-the-badge)](https://tfdoc.kintoun.work)&nbsp;
-[![블로그 바로가기](https://img.shields.io/badge/Visit-Team%20kintoun%20Blog-blue?style=for-the-badge)](https://kintoun.work)
-
-
 ## 👥 Team Members 👥
 
 | Name | GitHub | Role |
