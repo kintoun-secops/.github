@@ -6,28 +6,25 @@
 
 AWS 기반 클라우드 침해사고 대응 및 SecOps 인프라 구축 프로젝트
 
-<div align="center">
-  <table style="border-collapse: collapse; border: none; background: transparent; margin: 0 auto;">
-    <tr style="border: none; background: transparent;">
-      <td style="border: none; background: transparent; padding: 0 6px;">
-        <a href="https://github.com/kintoun-secops/kintoun-infra">
-          <img src="https://img.shields.io/badge/REPO-kintoun--infra-orange?style=for-the-badge&logo=Github" alt="레포 바로가기">
-        </a>
-      </td>
-      <td style="border: none; background: transparent; padding: 0 6px;">
-        <a href="https://tfdoc.kintoun.work">
-          <img src="https://img.shields.io/badge/DOCS-kintoun--infra--document-34A853?style=for-the-badge" alt="문서 바로가기">
-        </a>
-      </td>
-      <td style="border: none; background: transparent; padding: 0 6px;">
-        <a href="https://kintoun.work">
-          <img src="https://img.shields.io/badge/Visit-Team%20kintoun%20Blog-blue?style=for-the-badge" alt="블로그 바로가기">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
+<table align="center">
+  <tr>
+    <td style="border: none; background: transparent; padding: 0 5px;">
+      <a href="https://github.com/kintoun-secops/kintoun-infra">
+        <img src="https://img.shields.io/badge/REPO-kintoun--infra-orange?style=for-the-badge&logo=Github" alt="레포 바로가기">
+      </a>
+    </td>
+    <td style="border: none; background: transparent; padding: 0 5px;">
+      <a href="https://tfdoc.kintoun.work">
+        <img src="https://img.shields.io/badge/DOCS-kintoun--infra--document-34A853?style=for-the-badge" alt="문서 바로가기">
+      </a>
+    </td>
+    <td style="border: none; background: transparent; padding: 0 5px;">
+      <a href="https://kintoun.work">
+        <img src="https://img.shields.io/badge/Visit-Team%20kintoun%20Blog-blue?style=for-the-badge" alt="블로그 바로가기">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 👥 Team Members 👥
 
