@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./images/main.png" width="130">
 <br/>
-<sub>화이트햇 스쿨 4기 ・ Team 근두운></sub>
+<sub>화이트햇 스쿨 4기 ・ Team 근두운</sub>
 
 # ☁️ [WHS] Kintoun SecOps Project ☁️
 
