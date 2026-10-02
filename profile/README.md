@@ -51,6 +51,7 @@ AWS 기반 클라우드 침해사고 대응 및 SecOps 인프라 구축 프로�
 | **Database** |![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)&nbsp;![RDS](https://img.shields.io/badge/AWS%20RDS-232F3E?style=flat-square&logo=RDS&logoColor=white)|
 | **XDR/SIEM** |![Wazuh](https://img.shields.io/badge/Wazuh-2088FF?style=flat-square&logo=wazuh)|
 | **DFIR** |![Velociraptor](https://img.shields.io/badge/Velociraptor-green?style=flat-square&logo=velociraptor)|
+| **TI** |![VirusTotal](https://img.shields.io/badge/VirusTotal-2563EB?style=flat-square&logo=Virustotal)&nbsp;![AbuselPDB](https://img.shields.io/badge/AbuselPDB-2c3e50?style=flat-square&logo=AbuselPDB)|
 | **Offensive OS** |![Kali](https://img.shields.io/badge/Kali%20Linux-red?style=flat-square&logo=kalilinux&logoColor=white)|
 | **Governance** |![ISMS-P](https://img.shields.io/badge/ISMS--P-003366?style=flat-square)
 
